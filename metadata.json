@@ -1,0 +1,7 @@
+{
+  "name": "YT Trends Indonesia",
+  "description": "A sophisticated dashboard inspired by Google Trends, focusing on YouTube trends in Indonesia within the Arts & Entertainment category for the last 24 hours.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
